@@ -1,0 +1,23 @@
+[package]
+name = "claw401-cli"
+version = "0.1.0"
+edition = "2021"
+description = "CLI tool for the Claw401 X401 wallet authentication protocol"
+license = "Apache-2.0"
+repository = "https://github.com/claw401"
+
+[[bin]]
+name = "claw401"
+path = "src/main.rs"
+
+[dependencies]
+claw401-core = { path = "../sdk-rust" }
+clap = { version = "4.5", features = ["derive", "color"] }
+serde_json = "1.0"
+serde = { version = "1.0", features = ["derive"] }
+ed25519-dalek = { version = "2.1", features = ["rand_core", "pkcs8", "pem"] }
+rand = "0.8"
+bs58 = "0.5"
+base64 = "0.22"
+hex = "0.4"
+anyhow = "1.0"
