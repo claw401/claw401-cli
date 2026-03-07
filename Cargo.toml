@@ -2,7 +2,7 @@
 name = "claw401-cli"
 version = "0.1.0"
 edition = "2021"
-description = "CLI tool for the Claw401 X401 wallet authentication protocol"
+description = "CLI tool for the Claw401 X401 wallet authentication protocol."
 license = "Apache-2.0"
 repository = "https://github.com/claw401"
 
