@@ -7,3 +7,4 @@
 # feat: error handling and retries — Sat Mar  7 13:07:29 +03 2026
 # chore: update dependencies — Sat Mar  7 13:07:29 +03 2026
 # docs: add usage examples — Sat Mar  7 13:07:29 +03 2026
+# chore: bump version to 0.1.0 — Sat Mar  7 13:07:29 +03 2026
