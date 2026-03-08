@@ -12,3 +12,4 @@
 # feat: implement wallet reputation caching — Sun Mar  8 17:22:30 +03 2026
 # feat: batch wallet scanning support — Sun Mar  8 17:22:30 +03 2026
 # fix: handle rate limit responses gracefully — Sun Mar  8 17:22:30 +03 2026
+# feat: add risk level threshold configuration — Sun Mar  8 17:22:30 +03 2026
