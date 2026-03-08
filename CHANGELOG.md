@@ -11,3 +11,4 @@
 # feat: add openclaw agent handshake protocol — Sun Mar  8 17:22:30 +03 2026
 # feat: implement wallet reputation caching — Sun Mar  8 17:22:30 +03 2026
 # feat: batch wallet scanning support — Sun Mar  8 17:22:30 +03 2026
+# fix: handle rate limit responses gracefully — Sun Mar  8 17:22:30 +03 2026
