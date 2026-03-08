@@ -25,3 +25,4 @@
 # feat: agent context passing to scanner — Sun Mar  8 17:33:14 +03 2026
 # perf: optimize rpc call batching — Sun Mar  8 17:33:14 +03 2026
 # feat: add confidence score to risk verdict — Sun Mar  8 17:33:14 +03 2026
+# chore: improve error messages — Sun Mar  8 17:33:14 +03 2026
