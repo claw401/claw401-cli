@@ -27,3 +27,4 @@
 # feat: add confidence score to risk verdict — Sun Mar  8 17:33:14 +03 2026
 # chore: improve error messages — Sun Mar  8 17:33:14 +03 2026
 # docs: add sdk quickstart examples — Sun Mar  8 17:33:14 +03 2026
+# chore: release v0.3.0 — Sun Mar  8 17:33:14 +03 2026
