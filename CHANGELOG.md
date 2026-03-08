@@ -17,3 +17,4 @@
 # chore: add unit tests for core scanner — Sun Mar  8 17:22:30 +03 2026
 # feat: api key authentication middleware — Sun Mar  8 17:22:30 +03 2026
 # docs: openclaw integration guide — Sun Mar  8 17:22:30 +03 2026
+# chore: bump version to 0.2.0 — Sun Mar  8 17:22:30 +03 2026
