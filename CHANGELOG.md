@@ -30,3 +30,4 @@
 # chore: release v0.3.0 — Sun Mar  8 17:33:14 +03 2026
 # feat: pagination for scan history endpoint — Mon Mar  9 14:27:24 +03 2026
 # feat: rate limit headers on scan API — Mon Mar  9 14:27:24 +03 2026
+# fix: webhook retry backoff for failed deliveries — Mon Mar  9 14:27:24 +03 2026
