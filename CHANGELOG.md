@@ -32,3 +32,4 @@
 # feat: rate limit headers on scan API — Mon Mar  9 14:27:24 +03 2026
 # fix: webhook retry backoff for failed deliveries — Mon Mar  9 14:27:24 +03 2026
 # feat: filter scans by risk level and timestamp — Mon Mar  9 14:27:24 +03 2026
+# perf: cache RPC cluster health checks — Mon Mar  9 14:27:24 +03 2026
