@@ -36,3 +36,4 @@
 # feat: export scan report as JSON — Mon Mar  9 14:27:24 +03 2026
 # docs: webhook payload reference — Mon Mar  9 14:27:24 +03 2026
 # fix: timezone handling in scan timestamps — Mon Mar  9 14:27:24 +03 2026
+# feat: multi-wallet scan endpoint — Tue Mar 10 21:17:44 +03 2026
