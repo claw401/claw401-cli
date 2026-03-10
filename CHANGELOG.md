@@ -40,3 +40,4 @@
 # feat: add solana mainnet/devnet toggle — Tue Mar 10 21:17:44 +03 2026
 # fix: edge case on fresh wallet scoring — Tue Mar 10 21:17:44 +03 2026
 # feat: webhook support for scan results — Tue Mar 10 21:17:44 +03 2026
+# feat: agent context passing to scanner — Tue Mar 10 21:17:44 +03 2026
