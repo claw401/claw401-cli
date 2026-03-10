@@ -42,3 +42,4 @@
 # feat: webhook support for scan results — Tue Mar 10 21:17:44 +03 2026
 # feat: agent context passing to scanner — Tue Mar 10 21:17:44 +03 2026
 # perf: optimize rpc call batching — Tue Mar 10 21:17:44 +03 2026
+# feat: add confidence score to risk verdict — Tue Mar 10 21:17:45 +03 2026
