@@ -53,3 +53,4 @@
 # perf: optimize rpc call batching — Wed Mar 11 12:12:17 +03 2026
 # feat: add confidence score to risk verdict — Wed Mar 11 12:12:17 +03 2026
 # chore: improve error messages — Wed Mar 11 12:12:17 +03 2026
+# fix: edge case on fresh wallet scoring — Thu Mar 12 12:13:40 +03 2026
