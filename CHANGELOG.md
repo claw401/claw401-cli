@@ -55,3 +55,4 @@
 # chore: improve error messages — Wed Mar 11 12:12:17 +03 2026
 # fix: edge case on fresh wallet scoring — Thu Mar 12 12:13:40 +03 2026
 # feat: webhook support for scan results — Thu Mar 12 12:13:40 +03 2026
+# feat: agent context passing to scanner — Thu Mar 12 12:13:40 +03 2026
