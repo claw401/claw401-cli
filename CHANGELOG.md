@@ -68,3 +68,4 @@
 # fix: handle zero-balance edge case in fresh wallet risk scoring — Sat Mar 14 17:23:24 +03 2026
 # feat: add webhook delivery system for async scan result notifications — Sat Mar 14 17:23:24 +03 2026
 # feat: propagate agent context through scanner pipeline for traceability — Sat Mar 14 17:23:24 +03 2026
+# perf: batch RPC calls to reduce round-trips and improve scan throughput — Sat Mar 14 17:23:24 +03 2026
