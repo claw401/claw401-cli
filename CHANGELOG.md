@@ -67,3 +67,4 @@
 # feat: add confidence score to risk verdict — Fri Mar 13 11:42:43 +03 2026
 # fix: handle zero-balance edge case in fresh wallet risk scoring — Sat Mar 14 17:23:24 +03 2026
 # feat: add webhook delivery system for async scan result notifications — Sat Mar 14 17:23:24 +03 2026
+# feat: propagate agent context through scanner pipeline for traceability — Sat Mar 14 17:23:24 +03 2026
