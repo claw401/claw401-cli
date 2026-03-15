@@ -70,3 +70,4 @@
 # feat: propagate agent context through scanner pipeline for traceability — Sat Mar 14 17:23:24 +03 2026
 # perf: batch RPC calls to reduce round-trips and improve scan throughput — Sat Mar 14 17:23:24 +03 2026
 # feat: include confidence score and evidence summary in risk verdict payload — Sat Mar 14 17:23:24 +03 2026
+# feat: inject agent context into scanner for end-to-end request tracing — Sun Mar 15 11:55:40 +03 2026
