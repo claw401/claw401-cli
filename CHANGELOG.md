@@ -73,3 +73,4 @@
 # feat: inject agent context into scanner for end-to-end request tracing — Sun Mar 15 11:55:40 +03 2026
 # perf: consolidate RPC calls into batched requests to cut latency by ~60% — Sun Mar 15 11:55:40 +03 2026
 # feat: attach confidence score and flagged signals to risk verdict response — Sun Mar 15 11:55:40 +03 2026
+# fix: resolve false positives in fresh wallet heuristic scoring model — Mon Mar 16 17:26:52 +03 2026
