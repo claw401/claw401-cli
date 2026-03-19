@@ -93,3 +93,4 @@
 # fix: guard against null balance state in fresh wallet risk evaluation — Thu Mar 19 21:19:54 +03 2026
 # feat: ship webhook integration for pushing scan results to external systems — Thu Mar 19 21:19:54 +03 2026
 # feat: pass agent context downstream to scanner for full trace correlation — Thu Mar 19 21:19:54 +03 2026
+# feat: ship webhook integration for pushing scan results to external systems — Thu Mar 19 21:20:19 +03 2026
