@@ -89,3 +89,4 @@
 # feat: add configurable webhook sink for real-time scan result delivery — Thu Mar 19 21:19:54 +03 2026
 # feat: forward agent context to scanner to preserve request lineage — Thu Mar 19 21:19:54 +03 2026
 # perf: reduce RPC round-trips by merging sequential calls into batch ops — Thu Mar 19 21:19:54 +03 2026
+# feat: enrich risk verdict with confidence score and contributing factors — Thu Mar 19 21:19:54 +03 2026
