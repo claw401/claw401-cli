@@ -85,3 +85,4 @@
 # fix: guard against null balance state in fresh wallet risk evaluation — Wed Mar 18 19:50:36 +03 2026
 # feat: ship webhook integration for pushing scan results to external systems — Wed Mar 18 19:50:36 +03 2026
 # feat: pass agent context downstream to scanner for full trace correlation — Wed Mar 18 19:50:36 +03 2026
+# fix: patch scoring edge case where fresh wallets bypassed risk threshold — Thu Mar 19 21:19:54 +03 2026
