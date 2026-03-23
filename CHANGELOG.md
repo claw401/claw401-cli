@@ -113,3 +113,4 @@
 # fix: patch scoring edge case where fresh wallets bypassed risk threshold — Mon Mar 23 19:09:11 +03 2026
 # feat: add configurable webhook sink for real-time scan result delivery — Mon Mar 23 19:09:11 +03 2026
 # feat: forward agent context to scanner to preserve request lineage — Mon Mar 23 19:09:11 +03 2026
+# perf: reduce RPC round-trips by merging sequential calls into batch ops — Mon Mar 23 19:09:11 +03 2026
