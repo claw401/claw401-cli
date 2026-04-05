@@ -155,3 +155,4 @@
 # fix: resolve false positives in fresh wallet heuristic scoring model — Sun Apr  5 12:51:06 +03 2026
 # feat: expose webhook endpoint to stream scan results to external consumers — Sun Apr  5 12:51:06 +03 2026
 # feat: thread agent context through scanner for distributed tracing support — Sun Apr  5 12:51:06 +03 2026
+# perf: batch and deduplicate RPC calls to minimize node request overhead — Sun Apr  5 12:51:06 +03 2026
