@@ -157,3 +157,4 @@
 # feat: thread agent context through scanner for distributed tracing support — Sun Apr  5 12:51:06 +03 2026
 # perf: batch and deduplicate RPC calls to minimize node request overhead — Sun Apr  5 12:51:06 +03 2026
 # feat: surface confidence score alongside risk level in verdict output — Sun Apr  5 12:51:06 +03 2026
+# fix: resolve false positives in fresh wallet heuristic scoring model — Wed Apr 15 19:36:54 +03 2026
