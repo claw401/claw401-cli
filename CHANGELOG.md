@@ -169,3 +169,4 @@
 # feat: surface confidence score alongside risk level in verdict output — Thu Apr 16 10:15:20 +03 2026
 # fix: resolve false positives in fresh wallet heuristic scoring model — Fri Apr 17 16:09:26 +03 2026
 # feat: expose webhook endpoint to stream scan results to external consumers — Fri Apr 17 16:09:27 +03 2026
+# feat: thread agent context through scanner for distributed tracing support — Fri Apr 17 16:09:27 +03 2026
