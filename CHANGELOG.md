@@ -244,3 +244,4 @@
 # feat: ship webhook integration for pushing scan results to external systems — Mon Apr 27 21:41:09 +03 2026
 # feat: pass agent context downstream to scanner for full trace correlation — Mon Apr 27 21:41:09 +03 2026
 # feat: expose webhook endpoint to stream scan results to external consumers — Mon Apr 27 21:41:09 +03 2026
+# fix: patch scoring edge case where fresh wallets bypassed risk threshold — Mon Apr 27 21:41:17 +03 2026
