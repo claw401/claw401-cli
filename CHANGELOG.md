@@ -231,3 +231,4 @@
 # feat: forward agent context to scanner to preserve request lineage — Mon Apr 27 18:33:41 +03 2026
 # perf: reduce RPC round-trips by merging sequential calls into batch ops — Mon Apr 27 18:33:41 +03 2026
 # feat: enrich risk verdict with confidence score and contributing factors — Mon Apr 27 18:33:41 +03 2026
+# fix: guard against null balance state in fresh wallet risk evaluation — Mon Apr 27 18:33:41 +03 2026
