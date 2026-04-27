@@ -228,3 +228,4 @@
 # feat: expose webhook endpoint to stream scan results to external consumers — Sun Apr 26 09:47:03 +03 2026
 # fix: patch scoring edge case where fresh wallets bypassed risk threshold — Mon Apr 27 18:33:40 +03 2026
 # feat: add configurable webhook sink for real-time scan result delivery — Mon Apr 27 18:33:41 +03 2026
+# feat: forward agent context to scanner to preserve request lineage — Mon Apr 27 18:33:41 +03 2026
