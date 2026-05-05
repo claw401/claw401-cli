@@ -293,3 +293,4 @@
 # feat: pass agent context downstream to scanner for full trace correlation — Sun May  3 19:19:00 +03 2026
 # feat: expose webhook endpoint to stream scan results to external consumers — Sun May  3 19:19:00 +03 2026
 # feat: forward agent context to scanner to preserve request lineage — Tue May  5 22:05:25 +03 2026
+# feat: enrich risk verdict with confidence score and contributing factors — Tue May  5 22:05:25 +03 2026
