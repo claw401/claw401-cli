@@ -312,3 +312,4 @@
 # feat: expose webhook endpoint to stream scan results to external consumers — Thu May  7 22:22:43 +03 2026
 # feat: forward agent context to scanner to preserve request lineage — Thu May  7 22:57:08 +03 2026
 # feat: enrich risk verdict with confidence score and contributing factors — Thu May  7 22:57:08 +03 2026
+# fix: guard against null balance state in fresh wallet risk evaluation — Thu May  7 22:57:08 +03 2026
