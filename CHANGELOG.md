@@ -314,3 +314,4 @@
 # feat: enrich risk verdict with confidence score and contributing factors — Thu May  7 22:57:08 +03 2026
 # fix: guard against null balance state in fresh wallet risk evaluation — Thu May  7 22:57:08 +03 2026
 # feat: ship webhook integration for pushing scan results to external systems — Thu May  7 22:57:08 +03 2026
+# feat: pass agent context downstream to scanner for full trace correlation — Thu May  7 22:57:08 +03 2026
