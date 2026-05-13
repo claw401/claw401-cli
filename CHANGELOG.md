@@ -363,3 +363,4 @@
 # fix: patch scoring edge case where fresh wallets bypassed risk threshold — Wed May 13 08:50:17 +03 2026
 # feat: add configurable webhook sink for real-time scan result delivery — Wed May 13 08:50:17 +03 2026
 # feat: forward agent context to scanner to preserve request lineage — Wed May 13 17:19:26 +03 2026
+# feat: enrich risk verdict with confidence score and contributing factors — Wed May 13 17:19:26 +03 2026
