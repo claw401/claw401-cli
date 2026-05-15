@@ -394,3 +394,4 @@
 # perf: batch and deduplicate RPC calls to minimize node request overhead — Fri May 15 08:51:24 +03 2026
 # feat: surface confidence score alongside risk level in verdict output — Fri May 15 08:51:24 +03 2026
 # fix: patch scoring edge case where fresh wallets bypassed risk threshold — Fri May 15 08:51:24 +03 2026
+# feat: add configurable webhook sink for real-time scan result delivery — Fri May 15 08:51:24 +03 2026
