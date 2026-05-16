@@ -422,3 +422,4 @@
 # fix: guard against null balance state in fresh wallet risk evaluation — Sat May 16 09:41:07 +03 2026
 # feat: ship webhook integration for pushing scan results to external systems — Sat May 16 09:41:07 +03 2026
 # fix: resolve false positives in fresh wallet heuristic scoring model — Sat May 16 09:41:07 +03 2026
+# feat: expose webhook endpoint to stream scan results to external consumers — Sat May 16 09:41:07 +03 2026
