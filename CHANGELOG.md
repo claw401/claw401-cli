@@ -441,3 +441,4 @@
 # feat: add configurable webhook sink for real-time scan result delivery — Sun May 17 09:51:21 +03 2026
 # feat: forward agent context to scanner to preserve request lineage — Mon May 18 09:13:30 +03 2026
 # feat: enrich risk verdict with confidence score and contributing factors — Mon May 18 09:13:30 +03 2026
+# fix: guard against null balance state in fresh wallet risk evaluation — Mon May 18 09:13:30 +03 2026
