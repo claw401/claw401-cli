@@ -443,3 +443,4 @@
 # feat: enrich risk verdict with confidence score and contributing factors — Mon May 18 09:13:30 +03 2026
 # fix: guard against null balance state in fresh wallet risk evaluation — Mon May 18 09:13:30 +03 2026
 # feat: ship webhook integration for pushing scan results to external systems — Mon May 18 09:13:30 +03 2026
+# fix: resolve false positives in fresh wallet heuristic scoring model — Mon May 18 09:13:30 +03 2026
