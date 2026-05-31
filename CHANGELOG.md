@@ -492,3 +492,4 @@
 # feat: add configurable webhook sink for real-time scan result delivery — Sun May 31 23:31:34 +03 2026
 # fix: resolve false positives in fresh wallet heuristic scoring model — Sun May 31 23:31:34 +03 2026
 # feat: expose webhook endpoint to stream scan results to external consumers — Sun May 31 23:31:34 +03 2026
+# feat: thread agent context through scanner for distributed tracing support — Sun May 31 23:31:34 +03 2026
