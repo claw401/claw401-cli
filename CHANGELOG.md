@@ -489,3 +489,4 @@
 # feat: add configurable webhook sink for real-time scan result delivery — Fri May 29 14:34:42 +03 2026
 # feat: add configurable webhook sink for real-time scan result delivery — Fri May 29 14:34:57 +03 2026
 # feat: add configurable webhook sink for real-time scan result delivery — Sun May 31 23:30:47 +03 2026
+# feat: add configurable webhook sink for real-time scan result delivery — Sun May 31 23:31:34 +03 2026
