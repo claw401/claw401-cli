@@ -495,3 +495,4 @@
 # feat: thread agent context through scanner for distributed tracing support — Sun May 31 23:31:34 +03 2026
 # perf: batch and deduplicate RPC calls to minimize node request overhead — Sun May 31 23:31:34 +03 2026
 # feat: surface confidence score alongside risk level in verdict output — Sun May 31 23:31:34 +03 2026
+# feat: add configurable webhook sink for real-time scan result delivery — Mon Jun  1 16:50:46 +03 2026
