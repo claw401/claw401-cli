@@ -509,3 +509,4 @@
 # feat: surface confidence score alongside risk level in verdict output — Sat Jun  6 20:08:26 +03 2026
 # feat: add configurable webhook sink for real-time scan result delivery — Sun Jun  7 19:06:07 +03 2026
 # fix: resolve false positives in fresh wallet heuristic scoring model — Sun Jun  7 19:06:08 +03 2026
+# feat: expose webhook endpoint to stream scan results to external consumers — Sun Jun  7 19:06:08 +03 2026
